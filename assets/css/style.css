@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+section{
+    margin: 100px 0;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #413960;
+    padding-bottom: 3rem;
+}
+
+.button_def {
+    background: #21B573;
+    color: #fff;
+    border: none;
+    padding: 9px 20px;
+    border-radius: 25px;
+}
+
+
+
+
+ /* ++++++++++++++++++++
+ Header section starts
+ ++++++++++++++++++++ */
+
+ section.header{
+     margin-top: 0;
+     background: #F0FFF0;
+ }
+
+ .menu img {
+    max-width: 9rem;
+}
+
+li.nav-item {
+    margin-right: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+
+
+.banner{
+    padding: 5rem 0;
+}
+.banner span {color: #21b573;}
+
+.banner .button_def {
+    border: 1px solid black;
+    padding: 11px 28px;
+    box-shadow: 0 4px 7px #16000042;
+}
+h3{
+    color: #FD511A;
+    font-size: 1rem;
+    font-weight: 400;
+}
+h1{
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 5rem;
+    padding: 9px 0;
+}
+.banner p{
+    font-weight: 600;
+    padding: 5px 0px;
+    max-width: 416px;
+    line-height: 2;
+}
+.banner img{
+    max-width: 34rem;
+    margin: 3rem 0;
+}
+
+
+
+
+ /* ++++++++++++++++++++
+ Header section ends 
+ ++++++++++++++++++++ */
+
+
+
+ /* ++++++++++++++++++++
+ Feature section starts
+ ++++++++++++++++++++ */
+ 
+
+
+ .feature{}
+ .feature_content {
+    text-align: center;
+    background: #F8FFFB;
+    padding: 1rem;
+}
+.feature_content:hover {
+    background: #fff;
+    box-shadow: 0px 9px 20px #00000012;
+    border-radius: 10px;
+}
+ .feature img{
+    height: 6rem;
+    padding: 2px;
+    margin: 2rem;
+}
+ .feature p{
+    color: #585859;
+}
+ h4{}
+
+
+
+
+
+
+
+ /* ++++++++++++++++++++
+ Feature section ends
+ ++++++++++++++++++++ */
+ 
+ 
+
+
+
+
+
+ /* ++++++++++++++++++++
+ Online coursed section starts
+ ++++++++++++++++++++
+  */
+ 
+
+
+
+  .online_course .row {
+	justify-content: center;
+}
+  .card_content {
+	padding: 1rem;
+	box-shadow: 0 0 21px #00000033;
+	border-radius: 15px;
+	margin-bottom: 2rem;
+}
+  .card_content img{
+    height: 14.2rem;
+}
+  .card_content button{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+  .card_content i{
+    margin-right: 7px;
+    margin-top: 3px;
+}
+  .card_content p{
+      display: inline-block;
+  }
+  h5{
+    padding-top: 11px;
+    color: #413960;
+}
+  h6{
+    font-weight: 400;
+    color: #585859;
+    font-size: .9rem;
+}
+  
+
+
+
+
+ /* ++++++++++++++++++++
+ Online coursed section ends
+ ++++++++++++++++++++ */
+ 
+ 
+
+
+
+ /* ++++++++++++++++++++
+ Testimonial section starts
+ ++++++++++++++++++++ */
+ 
+ 
+
+
+ .testimonial{}
+ .testimonial img{
+    max-width: 8rem;
+}
+ .testimonial p{
+    font-weight: 400;
+    line-height: 2;
+    margin-top: 1rem;
+}
+
+
+
+
+
+ /* ++++++++++++++++++++
+ Testimonial section ends
+ ++++++++++++++++++++ */
+ 
+ 
+
+
+
+ /* ++++++++++++++++++++
+ Footer section starts
+ ++++++++++++++++++++ */
+
+
+
+ section.footer{
+     background: #282531;
+     color: white;
+     padding: 5rem 0 0 0;
+     margin-bottom: 0;
+ }
+ .footer{}
+ .footer h3{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 1.3rem;
+}
+ .footer .row p{
+    font-weight: 400;
+    line-height: 28px;
+    font-size: .9rem;
+}
+ .footer p{
+    padding-bottom: 1rem;
+    margin: 0;
+}
+ .list{
+    margin-bottom: 4rem;
+}
+ .footer ul{
+    padding: 0;
+}
+ .footer ul li{
+    line-height: 2;
+}
+ .footer ul li a{
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+}
+
+ 
+ 
+
+ /* +++++++++++++++++++
+ Footer section ends
+ ++++++++++++++++++++ */
+ 
+ 
