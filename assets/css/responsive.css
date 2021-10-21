@@ -17,7 +17,10 @@
     }
     .card_content {
         text-align: center;
-    }   
+    } 
+    .banner {
+    text-align: center;
+}
 }
 
 @media (max-width: 576px) { 
